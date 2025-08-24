@@ -1,0 +1,153 @@
+{
+    "Metadata": {
+        "ResumeFileName": "file_name",
+        "ParsingDate": "parsing_date",
+        "ValidationChecks": {}
+    },
+    "ResumeParserData": {
+        "ResumeFileName": "file_name",
+        "ParsingDate": "parsing_date",
+        "ResumeLanguage": {
+            "Language": "",
+            "LanguageCode": ""
+        },
+        "ResumeCountry": {
+            "Country": "",
+            "Evidence": "",
+            "CountryCode": {
+                "IsoAlpha2": "",
+                "IsoAlpha3": "",
+                "UNCode": ""
+            }
+        },
+        "PersonalDetails": {
+            "FullName": "",
+            "FirstName": "",
+            "MiddleName": "",
+            "LastName": "",
+            "DateOfBirth": "",
+            "Gender": "",
+            "Nationality": "",
+            "MaritalStatus": "",
+            "JobProfile": ""
+        },
+        "ContactDetails": {
+            "Email": [],
+            "PhoneNumber": [],
+            "Websites": [],
+            "Address": {
+                "City": "",
+                "State": "",
+                "Country": "",
+                "StateIsoCode": "",
+                "ZipCode": ""
+            }
+        },
+        "PassportDetails": {
+            "PassportNumber": "",
+            "DateOfIssue": "",
+            "DateOfExpiry": "",
+            "PlaceOfIssue": ""
+        },
+        "Identification": {
+            "PanNo": ""
+        },
+        "CategoryDetails": {
+            "Category": "",
+            "SubCategory": ""
+        },
+        "Education": [
+            {
+                "Degree": "",
+                "FieldOfStudy": "",
+                "Institution": "",
+                "Location": "",
+                "StartDate": "",
+                "EndDate": "",
+                "CGPA": ""
+            }
+        ],
+        "SegregatedCertification": [],
+        "SegregatedSkill": {
+            "TechnicalSkills": [
+                {
+                    "skillName": "",
+                    "competencyLevel": 1
+                }
+            ],
+            "SoftSkills": [
+                {
+                    "skillName": "",
+                    "competencyLevel": 1
+                }
+            ]
+        },
+        "WorkExperience": [
+            {
+                "Employer": "",
+                "JobTitle": "",
+                "Location": "",
+                "StartDate": "",
+                "EndDate": "",
+                "JobDescription": "",
+                "JobProfile": "",
+                "Projects": [
+                    {
+                        "ProjectName": "",
+                        "Role": "",
+                        "TechnologiesUsed": [],
+                        "Description": "",
+                        "StartDate": "",
+                        "EndDate": ""
+                    }
+                ]
+            }
+        ],
+        "WorkedPeriod": {
+            "TotalExperienceInYear": "",
+            "TotalExperienceInMonths": "",
+            "TotalExperienceRange": ""
+        },
+        "Projects": [
+            {
+                "ProjectName": "",
+                "Role": "",
+                "TechnologiesUsed": [],
+                "Description": "",
+                "StartDate": "",
+                "EndDate": ""
+            }
+        ],
+        "Achievements": [],
+        "Publications": [],
+        "Hobbies": [],
+        "Objective": "",
+        "ExpectedSalary": "",
+        "Availability": "",
+        "ExecutiveSummary": "",
+        "Summary": "",
+        "ManagementSummary": "",
+        "CoverLetter": "",
+        "UniqueID": "",
+        "LicenseNo": "",
+        "GapPeriod": "",
+        "AverageStay": "",
+        "LongestStay": "",
+        "References": [
+            {
+                "Name": "",
+                "Designation": "",
+                "Company": "",
+                "Contact": ""
+            }
+        ],
+        "DetailResume": "",
+        "HtmlResume": "",
+        "LanguagesKnown": [
+            {
+                "Language": "",
+                "Proficiency": ""
+            }
+        ]
+    }
+}
